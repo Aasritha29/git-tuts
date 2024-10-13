@@ -19,19 +19,27 @@ GitHub is one example of remote repository hosting(to store) service
 
 
 
-command in git:
+commands in git:
+
 1.)git init
 2.)git status
-3.)to send the data from working directory to staging area use "git add file_name
-" command
+3.)to send the data from working directory to staging area use "git add file_name" command
 3.)to send data from staging area to local repository use "git commit -m "message" " command
 4.)to send data from local repository to remote repository use "git push" command
 5.)git branch -->tells us that at which branch it is present
 6.)git checkout -b "name of the branch"--->we can jump from one branch to another branch
-
+7.)dir will display the directories
 
 master is the default branch in local repository..................but in github origin is default
 
 
 branches is useful in real time projects when we are working in team ...each member has to create one branch... ..
 and when his task completes he can send it to main branch(i.e.,pull request)
+"
+
+to bring the project from remote repository to local repository 
+1.)fork the project you want 
+2.)click on code and select https and copy that link.....
+3.)create new folder in your laptop
+4.)go to command prompt of that particular foldder("cmd+enter")
+5.)and in command prompt  enter the command(i.e., git clone paste the https link. push)
