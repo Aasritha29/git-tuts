@@ -42,7 +42,11 @@ to bring the project from remote repository to local repository
 2.)click on code and select https and copy that link.....
 3.)create new folder in your laptop
 4.)go to command prompt of that particular foldder("cmd+enter")
+<<<<<<< HEAD
 5.)and in command prompt  enter the command(i.e., git clone paste the https link. push)
 
 
 merge conflicts
+=======
+5.)and in command prompt  enter the command(i.e., git clone paste the https link. push)
+>>>>>>> origin/master
