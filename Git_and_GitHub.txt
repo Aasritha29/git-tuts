@@ -19,11 +19,11 @@ GitHub is one example of remote repository hosting(to store) service
 
 
 
-command in git:
+commands in git:
+
 1.)git init
 2.)git status
-3.)to send the data from working directory to staging area use "git add file_name
-" command
+3.)to send the data from working directory to staging area use "git add file_name" command
 3.)to send data from staging area to local repository use "git commit -m "message" " command
 4.)to send data from local repository to remote repository use "git push" command
 5.)git branch -->tells us that at which branch it is present
