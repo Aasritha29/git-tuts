@@ -1,0 +1,37 @@
+Git is a VCS-->Version Control System
+bug-->unexpected errors
+remote-->operating from distance
+remote server-->saving project on one server which is far from our system
+git-->used to save projects
+repository--->folder/package for a project
+
+Git hosting solutions and services===>gitlab,bitbucket,Microsoft azure devops
+
+GitHub is one example of remote repository hosting(to store) service
+
+4 elements of git--->
+1.Remote Repository(we will call origin in git)
+2.Local repository
+3.Staging area--->we can select the file to send yto local repository
+4.working directory--->on repository which we are working on it
+
+
+
+
+
+command in git:
+1.)git init
+2.)git status
+3.)to send the data from working directory to staging area use "git add file_name
+" command
+3.)to send data from staging area to local repository use "git commit -m "message" " command
+4.)to send data from local repository to remote repository use "git push" command
+5.)git branch -->tells us that at which branch it is present
+6.)git checkout -b "name of the branch"--->we can jump from one branch to another branch
+
+
+master is the default branch in local repository..................but in github origin is default
+
+
+branches is useful in real time projects when we are working in team ...each member has to create one branch... ..
+and when his task completes he can send it to main branch(i.e.,pull request)
