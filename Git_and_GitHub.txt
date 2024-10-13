@@ -39,7 +39,10 @@ and when his task completes he can send it to main branch(i.e.,pull request)
 
 to bring the project from remote repository to local repository 
 1.)fork the project you want 
-2.)click on code and select https and copy that link
+2.)click on code and select https and copy that link.....
 3.)create new folder in your laptop
 4.)go to command prompt of that particular foldder("cmd+enter")
-5.)and in command prompt  enter the command(i.e., git clone paste the https link)
+5.)and in command prompt  enter the command(i.e., git clone paste the https link. push)
+
+
+merge conflicts
